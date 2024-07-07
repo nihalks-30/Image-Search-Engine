@@ -2,7 +2,10 @@
 
 This project is an Image Search Engine that allows users to search for images using keywords. The images are fetched from the Unsplash API.
 
-![Screenshot](images/image search engine sc 1.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/image-search-engine-sc-1.png" alt="Screenshot 1" width="400"/>
+  <img src="images/image-search-engine-sc-2.png" alt="Screenshot 2" width="400"/>
+</div>
 
 ## Features
 
